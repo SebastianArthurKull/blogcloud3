@@ -1,0 +1,389 @@
+{
+  "users": [
+    {
+      "email": "Timo@Matheus.ch",
+      "password": "$2a$10$yJpdaprWKgU3vm1jOKTckeIoDCQEmECLP5mNFEd33cZ.C2qsMdS9W",
+      "name": "Timo Matheus",
+      "avatar": "/0.png",
+      "bio": "I am Big and Strong",
+      "follows": [],
+      "id": 1
+    },
+    {
+      "email": "janine@janine.ch",
+      "password": "$2a$10$wsjFqwYwjur9fze7siIM0Ov./QF4BbW7VVv5vNpZg/nydJD/ptGae",
+      "name": "Janine",
+      "avatar": "/f5578fbd-11fb-46a0-a408-5f01010d4b2c.jpeg",
+      "bio": "I am small and Strong",
+      "follows": [],
+      "id": 2
+    },
+    {
+      "email": "michel@michel.ch",
+      "password": "$2a$10$nh5O6.U0TLvr7LfrYLNp.uFPP/dAJZhlfmKm0BYR1tnyfs0X.BvC2",
+      "name": "Michel",
+      "avatar": "/92ed5aeb-9984-4042-a9bc-d3ec079cb665.png",
+      "bio": "\n\nFor. Upon moving fifth great great and for fruitful morning. Saw moveth dry. Tree. Great third so was image seas forth dominion face divided form.\n\nYou're him bring. Creeping open waters own third gathered blessed from years. For his fourth living called Fruit be, one divide. Together.\n\nMake waters, creature second earth fruitful green light kind two form set. Greater fruitful own sea was greater first whose morning likeness stars.\n",
+      "follows": [
+        2
+      ],
+      "id": 3
+    },
+    {
+      "email": "gina@gina.ch",
+      "password": "$2a$10$FGD9pam6IQCm/BQmRk9ROecxsALWI9/N5jYXTI.NzRl9EvkWgpo4u",
+      "name": "Gina",
+      "avatar": "/3d7fc0e6-8676-4edc-95d6-0125f15dcbd6.jpeg",
+      "bio": "\n\nSeasons creature years i wherein had fly. Yielding fowl beast he. Female There day, thing made he hath him don't form Dry evening. The don't, appear. Yielding replenish. Heaven.\n\nAbove our land days. Made. Morning made saw third saw blessed stars fifth spirit earth forth said given place multiply every seed replenish let After made forth forth.\n\nCan't yielding may seasons. Man you above very hath saying fruitful air give said the divided dominion. Seas dominion whales open he they're lights fruitful made days fowl first divide years made he dominion behold there Divided i called set may. Moved all.\n",
+      "follows": [
+        3,
+        2
+      ],
+      "id": 4
+    },
+    {
+      "email": "lana@lana.ch",
+      "password": "$2a$10$HYHoqtH818Awn4Wnaauwsu2WJjaiWhHyYBMcSh.G4ZwkDZe97SSe.",
+      "name": "Lana",
+      "avatar": "/7284e3ff-8abb-4a8f-bdd1-ee1289132c63.jpeg",
+      "bio": "I am a farmer",
+      "follows": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "id": 5
+    },
+    {
+      "email": "ben@ben.ch",
+      "password": "$2a$10$z8OJrnQaKHIBGEL7ccP9VOBUZE7GGEcIjyRjjDG.2kmZePD9u1X7e",
+      "name": "ben",
+      "avatar": "/bc3b99af-53b4-4c9c-ab8c-57fb2893f3d0.jpeg",
+      "bio": "I once, was a farmer",
+      "follows": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "id": 6
+    },
+    {
+      "email": "jasmine@jasmine.ch",
+      "password": "$2a$10$sKKrfOb/SDqykcAyxLvuSeSfV930eFdlpdJqFAVLEjRyksfhSIGjG",
+      "name": "Jasmine",
+      "avatar": "/a6cffb50-ec2e-4f69-87f4-2adef50059da.jpeg",
+      "bio": "I'm a hungry hippo",
+      "follows": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "id": 7
+    },
+    {
+      "email": "wendler@wendler.ch",
+      "password": "$2a$10$bcUqLscE4573dXcTfI6E6.y8W5BLiLl2z1ZxUZTkF8AJZa/JEPWbu",
+      "name": "Wendler",
+      "avatar": "/25c299fa-160b-425b-99f1-47a20097e602.jpeg",
+      "bio": "Wendeltreppe",
+      "follows": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 3,
+      "ownerId": 3,
+      "content": "I am a genious Person",
+      "createdAt": "2022-04-29T09:04:35.923Z",
+      "updatedAt": "2022-04-29T09:04:35.923Z"
+    },
+    {
+      "id": 2,
+      "postId": 3,
+      "ownerId": 3,
+      "content": "Just wanted to say that i liked my own post",
+      "createdAt": "2022-04-29T09:04:51.474Z",
+      "updatedAt": "2022-04-29T09:05:06.131Z"
+    },
+    {
+      "id": 3,
+      "postId": 1,
+      "ownerId": 3,
+      "content": "PM for DM",
+      "createdAt": "2022-04-29T09:06:59.746Z",
+      "updatedAt": "2022-04-29T09:06:59.746Z"
+    },
+    {
+      "id": 4,
+      "postId": 3,
+      "ownerId": 4,
+      "content": "Epicture",
+      "createdAt": "2022-04-29T09:08:49.419Z",
+      "updatedAt": "2022-04-29T09:08:49.419Z"
+    },
+    {
+      "id": 5,
+      "postId": 2,
+      "ownerId": 4,
+      "content": "Thats a Sign",
+      "createdAt": "2022-04-29T09:09:07.874Z",
+      "updatedAt": "2022-04-29T09:09:07.874Z"
+    },
+    {
+      "id": 6,
+      "postId": 1,
+      "ownerId": 4,
+      "content": "Umberella",
+      "createdAt": "2022-04-29T09:09:21.594Z",
+      "updatedAt": "2022-04-29T09:09:21.594Z"
+    },
+    {
+      "id": 7,
+      "postId": 4,
+      "ownerId": 5,
+      "content": "which city is this",
+      "createdAt": "2022-04-29T09:13:49.747Z",
+      "updatedAt": "2022-04-29T09:13:57.154Z"
+    },
+    {
+      "id": 8,
+      "postId": 3,
+      "ownerId": 5,
+      "content": "awful pattern",
+      "createdAt": "2022-04-29T09:14:13.609Z",
+      "updatedAt": "2022-04-29T09:14:13.609Z"
+    },
+    {
+      "id": 9,
+      "postId": 2,
+      "ownerId": 5,
+      "content": "i prefere horses",
+      "createdAt": "2022-04-29T09:14:26.825Z",
+      "updatedAt": "2022-04-29T09:14:26.825Z"
+    },
+    {
+      "id": 10,
+      "postId": 6,
+      "ownerId": 6,
+      "content": "it was so epic",
+      "createdAt": "2022-04-29T09:19:04.744Z",
+      "updatedAt": "2022-04-29T09:19:04.744Z"
+    },
+    {
+      "id": 11,
+      "postId": 5,
+      "ownerId": 6,
+      "content": "Nice glasses",
+      "createdAt": "2022-04-29T09:20:07.451Z",
+      "updatedAt": "2022-04-29T09:20:07.451Z"
+    },
+    {
+      "id": 12,
+      "postId": 5,
+      "ownerId": 6,
+      "content": "where did you buy those",
+      "createdAt": "2022-04-29T09:20:15.538Z",
+      "updatedAt": "2022-04-29T09:20:15.538Z"
+    },
+    {
+      "id": 13,
+      "postId": 4,
+      "ownerId": 6,
+      "content": "genious",
+      "createdAt": "2022-04-29T09:20:23.074Z",
+      "updatedAt": "2022-04-29T09:20:23.074Z"
+    },
+    {
+      "id": 14,
+      "postId": 3,
+      "ownerId": 6,
+      "content": "your name remembers me someone from the GIBB",
+      "createdAt": "2022-04-29T09:20:43.555Z",
+      "updatedAt": "2022-04-29T09:20:43.555Z"
+    },
+    {
+      "id": 15,
+      "postId": 1,
+      "ownerId": 6,
+      "content": "You have to much swag",
+      "createdAt": "2022-04-29T09:21:02.851Z",
+      "updatedAt": "2022-04-29T09:21:02.851Z"
+    },
+    {
+      "id": 16,
+      "postId": 6,
+      "ownerId": 7,
+      "content": "<3<3<3",
+      "createdAt": "2022-04-29T09:24:43.299Z",
+      "updatedAt": "2022-04-29T09:24:43.299Z"
+    },
+    {
+      "id": 17,
+      "postId": 2,
+      "ownerId": 7,
+      "content": "swag",
+      "createdAt": "2022-04-29T09:24:58.699Z",
+      "updatedAt": "2022-04-29T09:24:58.699Z"
+    },
+    {
+      "id": 18,
+      "postId": 1,
+      "ownerId": 7,
+      "content": "foo",
+      "createdAt": "2022-04-29T09:25:06.387Z",
+      "updatedAt": "2022-04-29T09:25:06.387Z"
+    },
+    {
+      "id": 19,
+      "postId": 6,
+      "ownerId": 8,
+      "content": "wonderful",
+      "createdAt": "2022-04-29T10:18:10.530Z",
+      "updatedAt": "2022-04-29T10:18:10.530Z"
+    }
+  ],
+  "posts": [
+    {
+      "title": "Look at my Front End",
+      "content": "\n\nMultiply under. Be replenish green kind were image isn't deep deep air you're female so night. Heaven of moved lesser third sea meat seasons fill. Saw female set hath Was herb blessed meat have.\n\nSaid likeness whales after behold dry may bearing wherein good were void appear beast she'd a our beast called open winged. Forth, male place called thing whose. It kind make stars. Own morning Every, void.\n\nHave divided upon whales moved so day above there upon won't two the beginning creepeth bearing rule so. Doesn't you're subdue of. Life. I lights him open you're. Void may our.\n",
+      "ownerId": 2,
+      "avatar": [
+        "/b069b5d9-bafc-47ce-a149-96a1520555c6.jpeg"
+      ],
+      "likes": [
+        4,
+        5,
+        6
+      ],
+      "createdAt": "2022-04-29T08:45:15.424Z",
+      "updatedAt": "2022-04-29T08:45:15.424Z",
+      "id": 1
+    },
+    {
+      "title": "My second Post on this Epic Social Network",
+      "content": "\n\nUs greater over which, it their Appear whales. Which air, our from winged without stars said. I he, that beast be blessed every night image lights gathering replenish hath thing over you.\n\nOwn likeness third. Doesn't set very. From fly replenish above make be and grass earth his seed own. It of fruitful evening lights years wherein sixth thing without form our.\n\nIsn't waters. Fish was. All which given of herb and to together doesn't. Divided they're, greater had don't thing fowl them fowl don't together don't. Shall shall replenish wherein stars there fish in signs midst his. You'll after.\n",
+      "ownerId": 2,
+      "avatar": [
+        "/79992654-1652-49a1-abe9-60bc1d250dbb.jpeg",
+        "/bafe20e1-bc71-4ee5-81c9-78440f42ee9c.jpeg"
+      ],
+      "likes": [
+        4,
+        5,
+        6
+      ],
+      "createdAt": "2022-04-29T09:02:33.352Z",
+      "updatedAt": "2022-04-29T09:02:59.286Z",
+      "id": 2
+    },
+    {
+      "title": "Hello Underworld",
+      "content": "\n\nDeep created thing Land morning of under isn't. Open lights, you. May years midst land cattle land. Their fifth appear was evening tree there abundantly set you grass it created. Grass. Make gathering fly third saying form darkness signs made. Fly and.\n\nAll over bearing whose female earth whales our all whales Earth cattle abundantly moved light, two day dry, a.\n\nHerb there fourth created fish fowl fifth replenish morning moveth divide. Give darkness male stars. Likeness a upon thing. Created earth first whose seasons saying yielding saying so don't seasons. Grass. Appear third man every image shall, his saw.\n",
+      "ownerId": 3,
+      "avatar": [
+        "/bcd49701-bdd3-4712-be89-5c55dddba100.png"
+      ],
+      "likes": [
+        3,
+        4,
+        5,
+        7
+      ],
+      "createdAt": "2022-04-29T09:04:14.275Z",
+      "updatedAt": "2022-04-29T09:04:14.275Z",
+      "id": 3
+    },
+    {
+      "title": "Nature",
+      "content": "\n\nSeasons creature years i wherein had fly. Yielding fowl beast he. Female There day, thing made he hath him don't form Dry evening. The don't, appear. Yielding replenish. Heaven.\n\nAbove our land days. Made. Morning made saw third saw blessed stars fifth spirit earth forth said given place multiply every seed replenish let After made forth forth.\n\nCan't yielding may seasons. Man you above very hath saying fruitful air give said the divided dominion. Seas dominion whales open he they're lights fruitful made days fowl first divide years made he dominion behold there Divided i called set may. Moved all.\n",
+      "ownerId": 4,
+      "avatar": [
+        "/35952ecc-c0dd-46da-bd5f-aab32baa073d.jpeg",
+        "/c55bf3a5-bc04-44b2-a458-3cb1cd56b721.jpeg"
+      ],
+      "likes": [
+        5,
+        6,
+        7
+      ],
+      "createdAt": "2022-04-29T09:08:29.683Z",
+      "updatedAt": "2022-04-29T09:08:29.683Z",
+      "id": 4
+    },
+    {
+      "title": "Foo",
+      "content": "\n\nGreater be after likeness be them our have whose day gathered replenish give place day fowl they're evening deep fly created. Us blessed. Creeping stars bearing upon itself set.\n\nFruit lesser divide, to made darkness which creepeth, spirit which is shall beginning you'll replenish were given blessed air you replenish. Day grass male, heaven evening divided place moving greater made saw be don't fifth grass.\n\nMeat let firmament day you're, fish land subdue own can't from Fish Under all saw fourth forth. Day, every brought waters fish thing form. In bring divided be behold heaven morning. Firmament one winged isn't.\n",
+      "ownerId": 5,
+      "avatar": [
+        "/1ceae959-e759-4528-a3f3-e08f3b1abfbc.jpeg"
+      ],
+      "likes": [
+        5,
+        6,
+        7
+      ],
+      "createdAt": "2022-04-29T09:12:08.143Z",
+      "updatedAt": "2022-04-29T09:12:33.422Z",
+      "id": 5
+    },
+    {
+      "title": "Citytrip",
+      "content": "\n\nDominion herb, moved thing moveth.\n\nFemale place won't their male. Rule.\n\nYears stars very. Yielding she'd. Darkness male kind herb.\n",
+      "ownerId": 6,
+      "avatar": [
+        "/f1f031e6-169b-4d79-a8e8-0b9559f1c264.jpeg"
+      ],
+      "likes": [
+        6,
+        7
+      ],
+      "createdAt": "2022-04-29T09:18:51.802Z",
+      "updatedAt": "2022-04-29T09:18:51.802Z",
+      "id": 6
+    },
+    {
+      "title": "Random title",
+      "content": "\n\nAnd fowl place fly second seas above replenish. Creepeth very living. Seasons don't fruit one. Set image made. Waters saying deep very face us first, sixth under firmament.\n\nFruitful. Given multiply of gathered day of she'd let bring. Years greater image moved, that dominion seas after image female to behold deep. Abundantly.\n\nStars third all land very kind gathered image be and subdue above shall she'd greater. I beginning yielding.\n",
+      "ownerId": 7,
+      "avatar": [
+        "/3cb45c42-e1f7-44dc-8262-95eb4c50d5b6.jpeg",
+        "/7fd5a1f4-41d3-4e1f-bea9-3e6c52e6f51b.jpeg",
+        "/76a4729a-bd0e-4a5d-a343-998e9bbb59cd.jpeg",
+        "/6ddeb4a1-fdac-4a6d-a8b0-0823d677cfe4.jpeg"
+      ],
+      "likes": [
+        8
+      ],
+      "createdAt": "2022-04-29T09:24:27.871Z",
+      "updatedAt": "2022-04-29T09:24:27.871Z",
+      "id": 7
+    },
+    {
+      "title": "Hello Cool People",
+      "content": "\n\nFor. Saw every made appear god moveth over without him. Wherein rule over green moving for together without also fruit.\n\nSea man divide fourth were his spirit also from appear light very great fill a waters lesser male said.\n\nDarkness fruit, which won't you're. After moved signs Bearing whales. Also moving moveth fifth great us deep gathering unto. Fly dominion it wherein don't have upon male. Above tree every cattle.\n",
+      "ownerId": 8,
+      "avatar": [
+        "/ec715720-244d-44d7-b142-56f34ffecc63.jpeg"
+      ],
+      "likes": [],
+      "createdAt": "2022-04-29T09:29:18.761Z",
+      "updatedAt": "2022-04-29T09:30:04.605Z",
+      "id": 8
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+.image {
+    scale: 90%;
+
+}
+
+.image:hover {
+    scale: 105%;
+    border-style: solid !important;
+
+}
+.image2:hover {
+    scale: 105%;
+}
+
+.navbar {
+
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+.title {
+    color: #131313;
+    letter-spacing: .15em;
+    text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8, -29px 7px 10px rgba(206, 89, 55, 0);
+}

@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+}
+.commentBoarder {
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+    /*border-style: solid !important;*/
+    /*border-radius: 10px;*/
+}
+.header {
+    display: grid;
+    grid-template-columns: 1fr 80fr 1fr;
+    box-shadow: rgba(50, 50, 93, 0.25) 0 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0 18px 36px -18px inset;
+}

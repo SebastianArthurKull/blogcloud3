@@ -1,0 +1,12 @@
+.imageUpload {
+    padding: 0.5em;
+}
+
+.imageUpload form {
+    display: flex;
+
+}
+
+.imageUpload form input, .imageUpload form  button {
+    margin: 0.5em 0;
+}
